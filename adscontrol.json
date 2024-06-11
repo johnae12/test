@@ -1,1 +1,34 @@
-test
+{
+  "ads": {
+    "ShowAds": true,
+    "ShowLoadingAds": true,
+    "showDownloadDialog": true,
+    "ClickCount": 1,
+    "huawei_inter": "x9b9fzwzi5",
+    "huawei_banner": "j38r662ied",
+    "huawei_native": "c1oikf9quz",
+    "image_link": "https://www.dropbox.com/scl/fi/gzgbpimhbozwiomd3afhd/icon.png?rlkey=ymg3q4h0w06fmx9cikt5nryoe&dl=1",
+    "download_link": "https://appgallery.huawei.com/app/C108848427",
+    "start_vpn": false
+  },
+  "ovpn_file": [
+    {
+      "country": "us",
+      "file": "https://raw.githubusercontent.com/proman0/admin/main/us.ovpn",
+      "username": "WYZWMu5xAdgydnEN",
+      "password": "VyufwH4DVHkGYhbBpOWvKU2lXIdesLz7"
+    },
+    {
+      "country": "jp",
+      "file": "https://raw.githubusercontent.com/johnae12/test/main/japan.ovpn",
+      "username": "WYZWMu5xAdgydnEN",
+      "password": "VyufwH4DVHkGYhbBpOWvKU2lXIdesLz7"
+    },
+    {
+      "country": "nl",
+      "file": "https://raw.githubusercontent.com/proman0/admin/main/nl.ovpn",
+      "username": "WYZWMu5xAdgydnEN",
+      "password": "VyufwH4DVHkGYhbBpOWvKU2lXIdesLz7"
+    }
+  ]
+}
